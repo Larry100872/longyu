@@ -1,0 +1,53 @@
+.timer {
+    width: 1100px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.same {
+    width: 350px;
+    height: 200px;
+    margin: 0 10px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.same h1 {
+    color: black;
+    font-weight: 1000;
+    /* line-height: 250px; */
+    padding-top: 60px;
+}
+
+.same p {
+    color: ORANGE;
+    font-weight: 1000;
+    margin-top: 0;
+    padding-top: 0;
+    /* line-height: -400px; */
+    /* line-height: 250px; */
+}
+
+.h h1 {
+    font-size: 65px;
+}
+
+.s h1 {
+    font-size: 65px;
+}
+
+.m h1 {
+    font-size: 65px;
+}
+
+.pic {
+    width: 1100px;
+    display: flex;
+}
+
+.pic img {
+    width: 280px;
+    flex: 1;
+}
